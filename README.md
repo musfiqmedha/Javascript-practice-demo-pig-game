@@ -1,4 +1,4 @@
-Demo Pig Game:
+Pig Game(Demo):
 
 This is a vanilla javascript game.
 
